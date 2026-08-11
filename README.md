@@ -1,12 +1,16 @@
-<h1 align="center">Hi, I'm <a href="www.linkedin.com/in/samuel-navarro-635583402">Samuel</a> | Data Analyst & AI Specialist 👋</h1>
+<h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/samuel-navarro-analyst/">Samuel</a> | Data Analyst & AI Specialist 👋</h1>
 
-### 🤖 About Me
-I'm a **Data Analyst** with a background in Operations, specialized in building **AI-driven solutions**. I focus on transforming raw data into automated pipelines and actionable insights.
+### 👋 About Me
+**Data Analyst** with a background in Marketing & Operations, turning messy 
+operational data into dashboards and decisions that move the business.
 
-* 🛠️ Currently working with: **Python, SQL, LangChain & n8n**.
-* 📊 Specialized in: **Data Visualization (Tableau) & Market Analysis**.
-* 🧠 Passionate about: **Autonomous AI Agents & Workflow Optimization**.
-
+* 📊 **Core stack:** SQL · Python (Pandas) · Tableau · Power BI · DAX
+* 🔍 **What I do:** Build end-to-end pipelines — from raw data to Star Schema 
+  models to executive-ready insights.
+* 🤖 **Currently exploring:** AI agents & workflow automation with LangChain & n8n.
+* 💡 **Recent win:** Identified a 17.5% patient no-show rate (~7K lost 
+  appointments/year) in a healthcare ops dataset and turned it into an 
+  actionable recommendation.
 ---
 
 ### 🛠️ Tech Stack
