@@ -19,6 +19,8 @@ operational data into dashboards and decisions that move the business.
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-512BD4?style=for-the-badge&logoColor=white)
 <!--
 
 **sam-n-data/sam-n-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
